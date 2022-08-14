@@ -1,6 +1,6 @@
 # NestJS Clean Architecture API
 
-### Project
+### Projeto
 ```markdown
 📦 src
 ┣ 📦 application: Nessa camada estarão as classes que terão as regras de negócio da aplicação (Casos de Uso).
@@ -24,16 +24,16 @@
 📜 yarn.lock
 ```
 
-### Configure Environment
+### Configuração Variáveis de Ambiente
  - [Production](.env)
  - [Development](.env.development)
 
-### Install Dependencies
+### Instalação de Dependências
 ```bash
 $ npm install
 ```
 
-### Running the app
+### Rodando a Aplicação
 ```bash
 # development mode
 $ npm run start
@@ -45,7 +45,7 @@ $ npm run start:prod
 $ npm run build
 ```
 
-### Prettier and Eslint
+### Prettier e Eslint
 ```bash
 # prettier
 $ npm run format:prettier
