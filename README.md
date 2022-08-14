@@ -1,6 +1,6 @@
 # NestJS Clean Architecture API
 
-### Projeto
+### Arquitetura
 ```markdown
 📦 src
 ┣ 📦 application: Nessa camada estarão as classes que terão as regras de negócio da aplicação (Casos de Uso).
@@ -25,8 +25,8 @@
 ```
 
 ### Configuração Variáveis de Ambiente
- - [Production](.env)
- - [Development](.env.development)
+ - [Produção](.env)
+ - [Desenvolvimento](.env.development)
 
 ### Instalação de Dependências
 ```bash
