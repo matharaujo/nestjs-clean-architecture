@@ -1,6 +1,6 @@
 # NestJS Clean Architecture API
 
-### Paths
+### Project
 ```markdown
 📦 src
 ┣ 📦 application: Nessa camada estarão as classes que terão as regras de negócio da aplicação (Casos de Uso).
